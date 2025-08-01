@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [Your Name] – Aspiring Full-Stack Developer
+### 👋 Hi, I'm Mark – Aspiring Full-Stack Developer
 
 I'm a self-taught developer focused on building clean, responsive user interfaces and learning backend technologies to bring full applications to life.
 
@@ -40,8 +40,8 @@ I'm a self-taught developer focused on building clean, responsive user interface
 
 📫 **Contact Me:**
 
-- 💻 Portfolio: [your link here]
-- 🔗 LinkedIn: [your LinkedIn]
-- ✉️ Email: [your email]
+- 💻 Portfolio: cooming soon
+- [🔗 LinkedIn: ](https://www.linkedin.com/in/mark-salamon-b8a09435a/)
+- ✉️ Email: marksalamon101@gmail.com
 
 Let’s build something awesome!
