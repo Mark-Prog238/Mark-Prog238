@@ -1,16 +1,47 @@
-## Hi there 👋
+### 👋 Hi, I'm [Your Name] – Aspiring Full-Stack Developer
 
-<!--
-**Mark-Prog238/Mark-Prog238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer focused on building clean, responsive user interfaces and learning backend technologies to bring full applications to life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tech Stack:**
+
+- **Frontend:** `HTML` `CSS` `JavaScript`
+- **Backend:** `Node.js (learning)` `SQL` `Python` `Lua`
+- **Other:** `Git` `VS Code` `Browser Dev Tools`
+
+---
+
+📚 **Currently Learning:**
+
+- `React` – component-based UI
+- `TypeScript` – typed JavaScript
+- `Node.js` – backend with Express
+- REST APIs and full-stack app architecture
+
+---
+
+🚀 **Projects I'm working on:**
+
+- ✅ Calculator app (HTML/CSS/JS)
+- 🔄 Simple REST API with Node.js + Express
+- 📝 Task Manager with localStorage or backend
+- 🌐 Portfolio website with responsive design
+
+---
+
+💼 **Looking for:**
+
+- Remote frontend or full-stack **junior dev roles**
+- Freelance projects – I deliver clean, working code
+- Collaboration with designers or other devs
+
+---
+
+📫 **Contact Me:**
+
+- 💻 Portfolio: [your link here]
+- 🔗 LinkedIn: [your LinkedIn]
+- ✉️ Email: [your email]
+
+Let’s build something awesome!
