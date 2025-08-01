@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Mark – Aspiring Full-Stack Developer
 
 I'm a self-taught developer focused on building clean, responsive user interfaces and learning backend technologies to bring full applications to life.
-
+[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-prog238)](https://github.com/mark-prog238/github-readme-stats)
 ---
 
 🔧 **Tech Stack:**
