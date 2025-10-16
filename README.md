@@ -39,7 +39,7 @@ I'm a self-taught developer focused on building clean, responsive user interface
 
 📫 **Contact Me:**
 
-- 💻 Portfolio: cooming soon
+- [💻 Portfolio: ](https://mark-prog238.github.io)
 - [🔗 LinkedIn: ](https://www.linkedin.com/in/mark-salamon-b8a09435a/)
 - ✉️ Email: marksalamon101@gmail.com
 
