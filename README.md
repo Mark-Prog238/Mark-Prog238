@@ -2,11 +2,6 @@
 React · Node · TypeScript · Tailwind · Postgres  
 Shipped: [portfolio](https://mark-prog238.github.io) & [diamant-servis.com](https://diamant-servis.com)  
 🔍 **Open to remote junior roles** → [LinkedIn](https://linkedin.com/in/mark-salamon-b8a09435a)
-
-### 📊 GitHub Insights
-![Stats](https://github-readme-stats.vercel.app/api?username=Mark-Prog238&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Prog238&layout=compact&theme=radical)
-
 Self-taught builder turning ideas into shipped products.  
 Frontend ❯ React + TypeScript + Tailwind | Backend ❯ Node.js + Express + PostgreSQL
 
@@ -30,9 +25,9 @@ Frontend ❯ React + TypeScript + Tailwind | Backend ❯ Node.js + Express + Pos
 
 ---
 
-📈 **GitHub Stats**
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark-Prog238&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Prog238&layout=compact&theme=radical)
+### 📊 GitHub Insights
+![Stats](https://github-readme-stats.vercel.app/api?username=Mark-Prog238&show_icons=true&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Prog238&layout=compact&theme=radical)
 
 ---
 
