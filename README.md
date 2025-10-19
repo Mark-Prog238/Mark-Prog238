@@ -38,15 +38,15 @@ Frontend ❯ React + TypeScript + Tailwind | Backend ❯ Node.js + Express + Pos
 
 ---
 
-🤝 **Open To**
-- Remote **junior full-stack** roles (React / Node)
-- Freelance gigs: web apps, landing pages, automation
-- Open-source collabs – hit me up with an issue or DM
+### 🤝 Open To
+Remote junior full-stack roles (React / Node)  
+Freelance gigs – web apps, landing pages, automation  
+Open-source collabs – DM or open an issue
 
 ---
 
-📫 **Contact**
-- [💼 LinkedIn](https://www.linkedin.com/in/mark-salamon-b8a09435a/)
-- ✉️ marksalamon101@gmail.com
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-salamon-b8a09435a)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marksalamon101@gmail.com)
 
-Let’s build something awesome together!
+---
