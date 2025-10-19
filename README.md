@@ -10,8 +10,9 @@ Frontend ❯ React + TypeScript + Tailwind | Backend ❯ Node.js + Express + Pos
 ### 🚀 Quick Preview
 | Project | Stack | Live |
 |---------|-------|------|
-| Portfolio Hub | React + Vite + Tailwind | [🔗 mark-prog238.github.io](https://mark-prog238.github.io) |
-| Diamant Servis | React + Tailwind | [🔗 diamant-servis.com](https://diamant-servis.com) |
+| **Portfolio Hub** | React + Vite + Tailwind | [🔗 mark-prog238.github.io](https://mark-prog238.github.io) |
+| **Diamant Servis** | React + Tailwind | [🔗 diamant-servis.com](https://diamant-servis.com) *(client project)* |
+
 
 ---
 
