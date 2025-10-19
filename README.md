@@ -8,8 +8,8 @@ Frontend ❯ React + TypeScript + Tailwind | Backend ❯ Node.js + Express + Pos
 🌐 **Live Work**
 | Project | Stack | Link |
 |---------|-------|------|
-| Portfolio Hub | React + Vite + Tailwind | [mark-prog238.github.io](https://mark-prog238.github.io) |
-| Diamant Servis | HTML/CSS/JS (business site) | [diamant-servis.com](https://diamant-servis.com) |
+| Portfolio Hub | React + Tailwind | [mark-prog238.github.io](https://mark-prog238.github.io) |
+| Diamant Servis | React + Tailwind (business site) | [diamant-servis.com](https://diamant-servis.com) |
 
 ---
 
@@ -19,6 +19,7 @@ Frontend ❯ React + TypeScript + Tailwind | Backend ❯ Node.js + Express + Pos
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
 
 ---
 
