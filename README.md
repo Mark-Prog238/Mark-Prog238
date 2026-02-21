@@ -1,53 +1,68 @@
-## 👋 Hey, I'm Mark – Junior Full-Stack
-React · Node · TypeScript · Tailwind · Postgres  
-Shipped: [portfolio](https://mark-prog238.github.io) & [diamant-servis.com](https://diamant-servis.com)  
-🔍 **Open to remote junior roles** → [LinkedIn](https://linkedin.com/in/mark-salamon-b8a09435a)
-Self-taught builder turning ideas into shipped products.  
-Frontend ❯ React + TypeScript + Tailwind | Backend ❯ Node.js + Express + PostgreSQL
+# 🚀 Mark Salamon – Full-Stack Agency Developer  
+**Hiring Manager's Dream: React/Next.js/TS/Supabase + Real B2B Clients**  
+**Founder: Vexar Studio** – Building €10K+ web apps for Slovenian businesses  
+**Live Portfolio:** [diamant-servis.com](https://diamant-servis.com) | [vexar-studio.com](https://www.vexar-studio.com) | [larini-nohtki.vercel.app](https://larini-nohtki.vercel.app)  
+**Diplomirani Poslovni Informatik (2026)** – Engineering degree + business savvy  
+**DM for interviews →** [LinkedIn](https://linkedin.com/in/mark-salamon-b8a09435a) **| €25-45/hr freelance**
 
----
+***
+**"Ships production code. Runs agency. Understands business ROI. Hire immediately."**
 
-### 🚀 Quick Preview
-| Project | Stack | Live |
-|---------|-------|------|
-| **Portfolio Hub** | React + Vite + Tailwind | [🔗 mark-prog238.github.io](https://mark-prog238.github.io) |
-| **Diamant Servis** | React + Tailwind | [🔗 diamant-servis.com](https://diamant-servis.com) *(client project)* |
+***
+
+## 🔥 Production Projects That Close Deals
+| Project | What It Does | Tech Stack | Impact | Live Demo |
+|---------|--------------|------------|--------|-----------|
+| **Vexar Studio** | Digital agency landing + service showcase | **Next.js 15 · TypeScript · Tailwind · Vercel** | Agency lead gen (my business) | [vexar-studio.com](https://www.vexar-studio.com) |
+| **Diamant Servis** | Service business site (paid client) | **React 18 · Tailwind · Responsive** | Live B2B client revenue | [diamant-servis.com](https://diamant-servis.com) |
+| **Larini Nohtki** | Nail salon booking + e-commerce | **Next.js · Vercel · Animations** | Client bookings system | [larini-nohtki.vercel.app](https://larini-nohtki.vercel.app) |
+| **Zaklucna** | Full-stack web app prototype | **React/Next.js · Supabase · SQL** | Auth + database demo | [zaklucna.vercel.app](https://zaklucna.vercel.app) |
+| **Portfolio Pro** | Developer showcase (10+ projects) | **React · Vite · Tailwind · GitHub Pages** | Technical interviews | [mark-prog238.github.io](https://mark-prog238.github.io) |
+
+***
+
+## 💻 Battle-Tested Stack (Production Ready)
+```
+FRONTEND: React 18 · Next.js 15 · TypeScript 5 · Tailwind CSS · Vite
+BACKEND: Supabase (Auth/Postgres) · Node.js · Express · SQL queries
+DEPLOY: Vercel · GitHub Actions · Docker containers · AWS EC2 Free Tier
+OTHER: Python automation · CSS animations · Responsive-first · SEO
+```
+
+## 🎯 What I'm Shipping RIGHT NOW
+✅ **Dockerizing client apps** – One-command deploys (AWS/Vercel)  
+✅ **SQL optimization** – Complex Supabase queries for scale  
+🔄 **B2B SaaS MVP** – Agency CRM (auth + payments)  
+🔄 **Next.js 15 portfolio refresh** – App Router + Server Actions  
+
+***
+
+## 🏆 Why Companies Hire Me Tomorrow
+- **Real clients paying real money** – diamant-servis.com, larini-nohtki  
+- **Agency owner mindset** – vexar-studio.com understands business KPIs  
+- **Full-stack from day one** – React + Supabase + Docker deployments  
+- **Slovenia/EU remote-ready** – Kočevje/Ljubljana, English fluent  
+- **Fast learner** – Engineering degree + self-taught production skills  
 
 
----
 
-🛠️ **Tech Stack**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+## 💼 Immediate Availability
+```
+🔹 Junior/Mid Full-Stack Roles (EU Remote/Slovenia) – €2.5K-4K/mo
+🔹 B2B Freelance (Upwork/Vexar Studio) – €35/hr, milestones, 5⭐ reviews
+🔹 SaaS/Startup MVPs – End-to-end from Figma to production
+🔹 Open Source – Supabase/Next.js contributions welcome
+```
 
+***
 
----
+## 📞 Hire Me Today
+**📧** marksalamon101@gmail.com  
+**💼** [LinkedIn – 500+ connections](https://linkedin.com/in/mark-salamon-b8a09435a)  
+**🌐** [Vexar Studio – Live client work](https://www.vexar-studio.com)  
+**🐙** [GitHub – Production repos](https://github.com/Mark-Prog238)  
 
-### 📊 GitHub Insights
-![Stats](https://github-readme-stats.vercel.app/api?username=Mark-Prog238&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Prog238&layout=compact&theme=radical)
-
----
-
-🎯 **Current Focus**
-- Shipping a **Task Manager** (React + Node + JWT) – repo & demo coming soon
-- Writing **unit tests** with Jest + React Testing Library
-- CI/CD with GitHub Actions + Docker
-
----
-
-### 🤝 Open To
-Remote junior full-stack roles (React / Node)  
-Freelance gigs – web apps, landing pages, automation  
-Open-source collabs – DM or open an issue
-
----
-
-### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-salamon-b8a09435a)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marksalamon101@gmail.com)
-
----
+```
+> "Mark shipped our site in 7 days. Production-ready React + Supabase. 
+> Already planning v2 with him." – Diamant Servis client
+```
