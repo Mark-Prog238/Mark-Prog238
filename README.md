@@ -2,7 +2,6 @@
 **Hiring Manager's Dream: React/Next.js/TS/Supabase + Real B2B Clients**  
 **Founder: Vexar Studio** – Building €10K+ web apps for Slovenian businesses  
 **Live Portfolio:** [diamant-servis.com](https://diamant-servis.com) | [vexar-studio.com](https://www.vexar-studio.com) | [larini-nohtki.vercel.app](https://larini-nohtki.vercel.app)  
-**Diplomirani Poslovni Informatik (2026)** – Engineering degree + business savvy  
 **DM for interviews →** [LinkedIn](https://linkedin.com/in/mark-salamon-b8a09435a) **| €25-45/hr freelance**
 
 ***
