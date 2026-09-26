@@ -1,6 +1,6 @@
 # 🚀 Mark Salamon – Full-Stack Developer  
 **Hiring Manager's Dream: React/Next.js/TS/Supabase + Real B2B   
-**Live Portfolio:** [diamant-servis.com](https://diamant-servis.com) | [vexar-studio.com](https://www.vexar-studio.com) | [larini-nohtki.vercel.app](https://larini-nohtki.vercel.app)  
+**Live Portfolio:** [driveX](zaklucna.vercel.app) | [vexar-studio.com](https://www.vexar-studio.com) | [larini-nohtki.vercel.app](https://larini-nohtki.vercel.app)  
 **DM for interviews →** [LinkedIn](https://linkedin.com/in/mark-salamon-b8a09435a) **| €25-45/hr freelance**
 
 ***
