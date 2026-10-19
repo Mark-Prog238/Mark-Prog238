@@ -7,7 +7,7 @@
 **"Ships production code. Runs agency. Understands business ROI. Hire immediately."**
 
 ***
-
+ 
 ## 🔥 Production Projects That Close Deals
 | Project | What It Does | Tech Stack | Impact | Live Demo |
 |---------|--------------|------------|--------|-----------|
