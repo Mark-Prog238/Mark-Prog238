@@ -12,9 +12,9 @@
 | Project | What It Does | Tech Stack | Impact | Live Demo |
 |---------|--------------|------------|--------|-----------|
 | **Vexar Studio** | Digital agency landing + service showcase | **Next.js 15 · TypeScript · Tailwind · Vercel** | Agency lead gen (my business) | [vexar-studio.com](https://www.vexar-studio.com) |
-| **Diamant Servis** | Service business site (paid client) | **React 18 · Tailwind · Responsive** | Live B2B client revenue | [diamant-servis.com](https://diamant-servis.com) |
+| **Diamant Servis** | Service business site (paid client) | **React 18 · Tailwind · Responsive** | Live B2B client revenue | [diamant-servis.com](https://diamant.marksalamon.me) |
 | **Larini Nohtki** | Nail salon booking + e-commerce | **Next.js · Vercel · Animations** | Client bookings system | [larini-nohtki.vercel.app](https://larini-nohtki.vercel.app) |
-| **Zaklucna** | Full-stack web app prototype | **React/Next.js · Supabase · SQL** | Auth + database demo | [zaklucna.vercel.app](https://zaklucna.vercel.app) |
+| **Zaklucna** | Full-stack web app prototype | **React/Next.js · Supabase · SQL** | Auth + database demo | [zaklucna.vercel.app](https://drivex.marksalamon.me) |
 | **Portfolio Pro** | Developer showcase (10+ projects) | **React · Vite · Tailwind · GitHub Pages** | Technical interviews | [mark-prog238.github.io](https://mark-prog238.github.io) |
 
 ***
