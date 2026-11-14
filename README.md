@@ -39,7 +39,7 @@ OTHER: Python automation · CSS animations · Responsive-first · SEO
 - **Real clients paying real money** – diamant-servis.com, larini-nohtki  
 - **Agency owner mindset** – vexar-studio.com understands business KPIs  
 - **Full-stack from day one** – React + Supabase + Docker deployments  
-- **Slovenia/EU remote-ready** – Kočevje/Ljubljana, English fluent  
+- **Slovenia/EU remote-ready** – Ljubljana, English fluent  
 - **Fast learner** – Engineering degree + self-taught production skills  
 
 
@@ -56,7 +56,7 @@ OTHER: Python automation · CSS animations · Responsive-first · SEO
 
 ## 📞 Hire Me Today
 **📧** marksalamon101@gmail.com  
-**💼** [LinkedIn – 500+ connections](https://linkedin.com/in/mark-salamon-b8a09435a)  
+**💼** [LinkedIn – ](https://linkedin.com/in/mark-salamon-b8a09435a)  
 **🌐** [Vexar Studio – Live client work](https://www.vexar-studio.com)  
 **🐙** [GitHub – Production repos](https://github.com/Mark-Prog238)  
 
